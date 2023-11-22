@@ -4,8 +4,6 @@
   "description": "A demo app of three-dxf",
   "scripts": {
     "deploy": "gh-pages -d dist"
-
-
   },
   "license": "MIT",
   "devDependencies": {},
